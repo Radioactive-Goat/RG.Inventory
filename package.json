@@ -1,11 +1,11 @@
 {
-  "name": "com.radioactivegoat.inventorysystem",
+  "name": "com.radioactivegoat.inventory",
   "version": "0.0.1",
-  "displayName": "RG.InventorySystem",
+  "displayName": "RG.Inventory",
   "description": "Inventory system for Unity.",
   "unity": "6000.0",
-  "documentationUrl": "https://github.com/Radioactive-Goat/RG.InventorySystem/wiki",
-  "licensesUrl": "https://raw.githubusercontent.com/Radioactive-Goat/RG.InventorySystem/master/LICENSE",
+  "documentationUrl": "https://github.com/Radioactive-Goat/RG.Inventory/wiki",
+  "licensesUrl": "https://raw.githubusercontent.com/Radioactive-Goat/RG.Inventory/master/LICENSE",
   "keywords": [
     "Inventory"
   ],
