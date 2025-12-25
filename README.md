@@ -1,2 +1,2 @@
-# UnityPackageTemplate
-Template for Unity Packages
+# RG.InventorySystem
+Inventory System for Unity
