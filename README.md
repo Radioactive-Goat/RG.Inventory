@@ -1,2 +1,2 @@
-# RG.InventorySystem
+# RG.Inventory
 Inventory System for Unity
